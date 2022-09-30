@@ -11,5 +11,5 @@ Estudante em Análise e Desenvolvimento de Sistemas
 
 ## Social Networks
 
- - Linkedin: [Linkedin] (https://www.linkedin.com/in/rubens-ferreira-nogueira-547aa51a3/)
- - Twitter: [Twitter] (https://twitter.com/rubensfn_)
+ - Linkedin: [Linkedin](https://www.linkedin.com/in/rubens-ferreira-nogueira-547aa51a3/)
+ - Twitter: [Twitter](https://twitter.com/rubensfn_)
