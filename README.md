@@ -1,6 +1,11 @@
 # Rubens Ferreira 🐺
 
+<br/>
+
 <p>Eternal apprentice of technology 💻</p>
+
+<br/>
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
