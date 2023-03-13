@@ -1,14 +1,10 @@
-# Rubens Ferreira 🐺
-
-<br/>
-
-<p>Eternal apprentice of technology 💻</p>
-
-<br/>
-
 ## 💫 About Me:
+
+<br>
+# Rubens Ferreira 🐺
 🔭 I am currently studying and internship<br>
-🌱 I am currently learning JavaScript, React
+🌱 I am currently learning JavaScript, React<br>
+💻 Eternal apprentice of technology
 
 
 ## 🌐 Socials:
