@@ -1,7 +1,6 @@
 ## 💫 About Me:
 
-<br>
-# Rubens Ferreira 🐺
+## Rubens Ferreira 🐺<br>
 🔭 I am currently studying and internship<br>
 🌱 I am currently learning JavaScript, React<br>
 💻 Eternal apprentice of technology
