@@ -6,8 +6,9 @@
 
 <br/>
 
-<# 💫 About Me:
-🔭 I am currently studying and internship<br>🌱 I am currently learning JavaScript, React
+## 💫 About Me:
+🔭 I am currently studying and internship<br>
+🌱 I am currently learning JavaScript, React
 
 
 ## 🌐 Socials:
