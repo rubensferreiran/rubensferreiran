@@ -2,7 +2,7 @@
 
 ## Rubens Ferreira 🐺<br>
 🔭 I am currently studying and internship<br>
-🌱 I am currently learning JavaScript, React<br>
+🌱 I am currently learning JavaScript, Typescript, Angular<br>
 💻 Eternal apprentice of technology
 
 
